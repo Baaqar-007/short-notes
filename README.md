@@ -10,7 +10,7 @@ The **Android Notes App** is a straightforward application designed for Android 
 - **Easy Setup**: To get started, simply open the project in Android Studio and run it.
 
 Screenshot
-![Uploading Screenshot 2024-04-29 222352.png…]()
+![Screenshot 2024-04-29 222352](https://github.com/Baaqar-007/short-notes/assets/110708987/4037f1e7-bf76-43c7-9bbe-148abc823e92)
 
 
 Feel free to explore this lightweight notes app and keep your thoughts organized! 📝📱
